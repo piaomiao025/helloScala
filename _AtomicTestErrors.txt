@@ -1,0 +1,188 @@
+Normal weight[Error] expected:
+Under weight
+Normal weight[Error] expected:
+Over weight
+Normal weight[Error] expected:
+Under weight
+Normal weight[Error] expected:
+Over weight
+Normal weight[Error] expected:
+Under weight
+Normal weight[Error] expected:
+Over weight
+150.0[Error] expected:
+212.0
+Successful move[Error] expected:
+Succefull move
+UNKNOW COLOR: white[Error] expected:
+WHITE
+83[Error] expected:
+84
+HereCupshot shot [Error] expected:
+HereCup shot shot
+ToGoCup decaf shot  decaf shot Chocolate[Error] expected:
+ToGoCup decaf shot decaf shot Chocolate
+Vector(Dog(hello), Dog(Cleo))[Error] expected:
+Vector(Dog(Henry), Dog(Cleo))
+Vector(Dog(hello), Dog(Cleo))[Error] expected:
+Vector(Dog(Henry), Dog(Cleo))
+Vector(a, b, c)[Error] expected:
+Vector(a, b, c
+Vector(19, 14, 7, 3, 2, 1)[Error] expected:
+Vector(1, 2, 3, 7, 14, 19)
+Vector(19, 14, 7, 3, 2, 1)[Error] expected:
+Vector(1, 2, 3, 7, 14, 19)
+Vector(19, 14, 7, 3, 2, 1)[Error] expected:
+Vector(1, 2, 3, 7, 14, 19)
+Vector(19, 14, 7, 3, 2, 1)[Error] expected:
+Vector(1, 2, 3, 7, 14, 19)
+Vector(19, 14, 7, 3, 2, 1)[Error] expected:
+Vector(1, 2, 3, 7, 14, 19)
+100[Error] expected:
+70
+Vector(19, 14, 7, 3, 2, 1)[Error] expected:
+Vector(1, 2, 3, 7, 14, 19)
+Vector(19, 14, 7, 3, 2, 1)[Error] expected:
+Vector(1, 2, 3, 7, 14, 19)
+7 35 49 63 [Error] expected:
+7 35 49 56
+Vector(19, 14, 7, 3, 2, 1)[Error] expected:
+Vector(1, 2, 3, 7, 14, 19)
+7 35 49 56 [Error] expected:
+7 35 49 56
+Vector(19, 14, 7, 3, 2, 1)[Error] expected:
+Vector(1, 2, 3, 7, 14, 19)
+Vector(19, 14, 7, 3, 2, 1)[Error] expected:
+Vector(1, 2, 3, 7, 14, 19)
+1 4 25 49 81 [Error] expected:
+1 4 25 9 49 
+Vector(19, 14, 7, 3, 2, 1)[Error] expected:
+Vector(1, 2, 3, 7, 14, 19)
+1 4 25 49 81 [Error] expected:
+1 4 25 9 49 
+cats[Error] expected:
+dogs
+()[Error] expected:
+Vector(21, 32, 43, 54)
+()[Error] expected:
+Vector(21, 32, 43, 54)
+Vector(1, 2, 3, 4)[Error] expected:
+Vector(21, 32, 43, 54)
+()[Error] expected:
+Vector(21, 32, 43, 54)
+Vector(1, 2, 3, 4)[Error] expected:
+Vector(21, 32, 43, 54)
+()[Error] expected:
+Vector(21, 32, 43, 54)
+Vector(1, 2, 3, 4)[Error] expected:
+Vector(21, 32, 43, 54)
+List(12, 32, 52)[Error] expected:
+List(1, 2, 3)
+Ant Int less than 20: 5[Error] expected:
+An Int less than 20: 5
+I donot know what that is ![Error] expected:
+I donnot know what that is !
+Ant Int less than 20: 5[Error] expected:
+An Int less than 20: 5
+Person(Joanna)+guest[Error] expected:
+Person(Joanna) +guest
+Ant Int less than 20: 5[Error] expected:
+An Int less than 20: 5
+Ant Int less than 20: 5[Error] expected:
+An Int less than 20: 5
+6[Error] expected:
+5
+0[Error] expected:
+45.6
+Ant Int less than 20: 5[Error] expected:
+An Int less than 20: 5
+Ant Int less than 20: 5[Error] expected:
+An Int less than 20: 5
+46[Error] expected:
+45.6
+Ant Int less than 20: 5[Error] expected:
+An Int less than 20: 5
+46[Error] expected:
+45.6
+Ant Int less than 20: 5[Error] expected:
+An Int less than 20: 5
+46[Error] expected:
+45.6
+Unknown[Error] expected:
+Sunny
+Sunny[Error] expected:
+Mostly Sunny
+Mostly Sunny[Error] expected:
+Partly Sunny
+Partly Sunny[Error] expected:
+Mostly Cloudy
+Ant Int less than 20: 5[Error] expected:
+An Int less than 20: 5
+46[Error] expected:
+45.6
+Sunny[Error] expected:
+Mostly Sunny
+Mostly Sunny[Error] expected:
+Partly Sunny
+Partly Sunny[Error] expected:
+Mostly Cloudy
+Ant Int less than 20: 5[Error] expected:
+An Int less than 20: 5
+46[Error] expected:
+45.6
+Sunny[Error] expected:
+Mostly Sunny
+Mostly Sunny[Error] expected:
+Partly Sunny
+Partly Sunny[Error] expected:
+Mostly Cloudy
+Ant Int less than 20: 5[Error] expected:
+An Int less than 20: 5
+46[Error] expected:
+45.6
+Unknown[Error] expected:
+Mostly Sunny
+Mostly Sunny[Error] expected:
+Partly Sunny
+Partly Sunny[Error] expected:
+Mostly Cloudy
+Ant Int less than 20: 5[Error] expected:
+An Int less than 20: 5
+46[Error] expected:
+45.6
+Train line Reading Vector(Passenger(Harvey,Rabbit), Passenger(Dorothy,Gale))[Error] expected:
+Train line Reading
+Train line Reading Vector(Passenger(Harvey,Rabbit), Passenger(Dorothy,Gale))[Error] expected:
+Train line Reading
+Bus size 100 Vector(Passenger(Harvey,Rabbit), Passenger(Dorothy,Gale))[Error] expected:
+Bus size 100
+LongUnrulyNameFromSomeone()[Error] expected:
+LongUnrulyNameFromSomeone
+()[Error] expected:
+yes!
+4[Error] expected:
+8
+(Mouse,false,3.14,Altitude,1)[Error] expected:
+Mouse
+(Mouse,false,3.14,Altitude,1)[Error] expected:
+Mouse
+3.14[Error] expected:
+Mouse
+(Mouse,false,3.14,Altitude,1)[Error] expected:
+Mouse
+3.14[Error] expected:
+Mouse
+(Mouse,false,3.14,Altitude,1)[Error] expected:
+Mouse
+3.14[Error] expected:
+Mouse
+double[Error] expected:
+object scala.Double
+(Mouse,false,3.14,Altitude,1)[Error] expected:
+Mouse
+3.14[Error] expected:
+Mouse
+double[Error] expected:
+class scala.Double$
+40[Error] expected:
+60
