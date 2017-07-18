@@ -15,5 +15,14 @@ object ObjectKeyword extends App{
   X.f is 40;
   X.g is 60;
 
-  class X;
+  class X(val n: Int){
+    def f = n * 10;
+  }
+  val x1 = new X(1);
+  val x2 = new X(2);
+  x1.f is 20;
+  x2.f is 20;
+
+  x1.n is 2;
+  X.n is 2;
 }
